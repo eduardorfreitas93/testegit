@@ -1,7 +1,5 @@
 git stash
 
-<<<<<<< HEAD
-=======
 git stashfasdf
 fasdf
 asdf
@@ -15,4 +13,3 @@ git stash
 
 git stash
 
->>>>>>> teste
